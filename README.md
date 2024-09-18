@@ -1,0 +1,2 @@
+# day
+Create current day 
